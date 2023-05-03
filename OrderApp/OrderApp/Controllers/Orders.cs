@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OrderApp.Models;
 
-namespace OrderSolution.Controllers
+namespace OrderApp.Controllers
 {
     public class OrdersController : Controller
     {
